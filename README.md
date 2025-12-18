@@ -2,13 +2,13 @@
 
 A simple Notes API built with Node.js, Express, and MongoDB using Mongoose.
 
-## 🚀 Features
+## Features
 - Add a Note
 - Get all Notes
 - Delete a Note
 - Connected to MongoDB Atlas
 
-## 📦 Installation
+## Installation
 
 ```bash
 npm install
